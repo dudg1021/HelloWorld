@@ -1,2 +1,2 @@
 # HelloWorld
-Just ademo project
+Just a demo project
